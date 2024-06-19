@@ -1,7 +1,7 @@
 # About me 👋
 
 
-**Niko2xni/Niko2xni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Niko2xni/Niko2xni** is a ✨ _special_ ✨ repository because the owner is 'special'.
 
 
 - 🔭 I’m currently working on improving my life. I workout and learn new things regularly.
